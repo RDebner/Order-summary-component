@@ -170,6 +170,10 @@ body {
     }
 
     .preco {
-        left: 60px;
+        left: 70px;
+    }
+
+    .change {
+        right: 15px;
     }
 }
